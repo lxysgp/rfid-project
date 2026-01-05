@@ -2,6 +2,7 @@
 
 ![Latest version badge](https://img.shields.io/github/v/release/lxysgp/rfid-project?label=latest%20release&labelColor=grey&color=blue)
 ![License: MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![mysql2](https://img.shields.io/badge/3.16.0-green.svg)
 
 A lightweight **RFID-based attendance system API** built with **Node.js, Express, and MySQL**.  
 Designed to receive RFID scan data, link card UIDs to students, and provide attendance records via simple HTTP endpoints.
