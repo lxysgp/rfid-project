@@ -13,8 +13,6 @@ Designed to receive RFID scan data, link card UIDs to students, and provide atte
 ## Contents
 
 - [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Folder Layout](#folder-layout)
 - [Quick Start](#quick-start)
 - [Database Setup](#database-setup)
 - [Configuration](#configuration)
