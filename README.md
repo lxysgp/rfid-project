@@ -57,23 +57,6 @@ Refer to `ui/README.md` for:
 
 ---
 
-## Typical System Flow
-
-1. Student taps RFID card on reader
-2. ESP32 sends UID to backend API
-3. Backend stores scan in MySQL
-4. UI fetches attendance data from API
-5. UID is resolved to student name and class in UI
-
----
-
-## Status
-
-This project is under **active development**.  
-Interfaces and features may change between releases.
-
----
-
 ## License
 
 This project is released under the **MIT License**.  
