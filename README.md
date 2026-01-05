@@ -5,6 +5,7 @@
 ![mysql2](https://img.shields.io/badge/mysql2-3.16.0-green.svg)
 ![express](https://img.shields.io/badge/express-5.2.1-green.svg)
 ![cors](https://img.shields.io/badge/cors-2.8.5-green.svg)
+
 A lightweight **RFID-based attendance system API** built with **Node.js, Express, and MySQL**.  
 Designed to receive RFID scan data, link card UIDs to students, and provide attendance records via simple HTTP endpoints.
 
