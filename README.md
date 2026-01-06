@@ -1,4 +1,4 @@
-# RFID Attendance System — Project Overview
+# RFID Attendance System — W@W Project Overview!!
 
 This repository contains the **overall RFID Attendance System project**, combining **hardware**, **backend software**, and **frontend UI** components to enable RFID-based attendance taking.
 
