@@ -3,7 +3,6 @@
 This repository contains the **overall RFID Attendance System project**, combining **hardware**, **backend software**, and **frontend UI** components to enable RFID-based attendance taking.
 
 Each major component has its **own detailed README** inside its respective folder.  
-This document provides a **high-level overview only**.
 
 ---
 
